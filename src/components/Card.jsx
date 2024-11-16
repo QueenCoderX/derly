@@ -8,7 +8,7 @@ export default function Card () {
         <section id="services">
             <div className="h-auto flex flex-col flex-1">
             <video controls className="video-frame rounded-lg relative -top-7 border-lime-700 border-y-2 border-x-2 border-opacity-70 max-[390px]:w-60 max-[390px]:h-48 max-[639px]:w-72 max-[639px]:h-64 sm:w-72 sm:h-64 md:w-80 md:h-80 xl:w-96 xl:h-96">
-               <source src="./src/assets/serene video.mp4" type="video/mp4"/>
+               <source src="/serene-video.MP4" type="video/mp4"/>
             </video>
 
             <div className="flex flex-col gap-3 p-2 md:mr-16 md:ml-16 xl:mr-24 xl:ml-24">

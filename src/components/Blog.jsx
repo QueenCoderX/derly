@@ -39,7 +39,7 @@ export default function Blog() {
         }>
              <swiper-slide>
              <div className="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="./src/assets/sunset.JPG" alt="Sunset" className="w-full h-48 object-cover"/>
+            <img src="/sunset.JPG" alt="Sunset" className="w-full h-48 object-cover"/>
             <div className="p-4 overflow-scroll overflow-x-hidden">
             <span className="text-md text-gray-500">Miss Carr - Poetic Article</span>
             <h2 className="text-lg font-semibold text-gray-800 mt-2">
@@ -54,7 +54,7 @@ export default function Blog() {
 
             <swiper-slide>
             <div className="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="./src/assets/rooftop.JPG" alt="Rooftop" className="w-full h-48 object-cover" />
+            <img src="/rooftop.JPG" alt="Rooftop" className="w-full h-48 object-cover" />
             <div className="p-4 overflow-scroll overflow-x-hidden">
             <span className="text-sm text-gray-500">Derly Media - Article</span>
             <h2 className="text-lg font-semibold text-gray-800 mt-2">
@@ -69,7 +69,7 @@ export default function Blog() {
 
             <swiper-slide>
             <div className="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="./src/assets/lady staring at sky.JPG" alt="Sunset" className="w-full h-48 object-cover"/>
+            <img src="/lady staring at sky.JPG" alt="Sunset" className="w-full h-48 object-cover"/>
             <div className="p-4 overflow-scroll overflow-x-hidden">
             <span className="text-sm text-gray-500">Sammy Dew - Blog</span>
             <h2 className="text-lg font-semibold text-gray-800 mt-2">
@@ -84,7 +84,7 @@ export default function Blog() {
 
             <swiper-slide>
             <div className="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="./src/assets/nirvana photo.JPG" alt="Nirvana" className="w-full h-48 object-cover" />
+            <img src="/nirvana photo.JPG" alt="Nirvana" className="w-full h-48 object-cover" />
             <div className="p-4">
             <span className="text-sm text-gray-500">Derly Colorists - Article</span>
             <h2 className="text-lg font-semibold text-gray-800 mt-2">
@@ -99,7 +99,7 @@ export default function Blog() {
 
             <swiper-slide>
             <div className="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="./src/assets/woman.JPG" alt="Woman" className="w-full h-48 object-cover"/>
+            <img src="/woman.JPG" alt="Woman" className="w-full h-48 object-cover"/>
             <div className="p-4">
             <span className="text-sm text-gray-500">Amana Richie - <em>Featured Post</em></span>
             <h2 className="text-lg font-semibold text-gray-800 mt-2">
